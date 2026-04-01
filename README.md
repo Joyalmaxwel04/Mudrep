@@ -1,6 +1,5 @@
-Python | CLI | Automation | Telegram Remote
 ![image alt](https://github.com/Joyalmaxwel04/Mudrep/blob/81c87da5cc7d04d1387c535388486f4b23bec9e9/Thumbnail/icons.png)
-
+Python | CLI | Automation | Telegram Remote
 # mudrep — CLI Tool
 
 > **mudrep** is a terminal-based task automation and remote control tool that lets you record, schedule, and inject shell command sequences from a styled CLI interface — and control everything remotely through a Telegram bot.
