@@ -10,9 +10,9 @@
 
 mudrep is a local command-line application built in Python. It runs in your terminal, and gives you a personal task manager where you can store groups of shell commands as named "tasks" and run them on demand, on a schedule, or when internet becomes available. It also ships a full Telegram bot integration so you can trigger and monitor everything from your phone or anywhere from world only by access through internet.
 
----
+
 ![image alt](https://github.com/Joyalmaxwel04/Mudrep/blob/5f172d5530d963689a67fd2e6b462c64809d52bd/Thumbnail/file_00000000ffa8720ba8eba7a7f907b4bf.png)
----
+
 ## Features
 
 ### CLI Interface
