@@ -153,7 +153,7 @@ Choose trigger (1/2/3): 1
 ### Running a Task
 
 ```
-inject backup
+inject <recordname>
 ```
 
 ### Viewing All Tasks
