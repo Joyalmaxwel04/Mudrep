@@ -6,14 +6,14 @@
 
 ## What Is It?
 
-mudrep is a local command-line application built in Python. It runs in your terminal, looks like a Kali Linux shell, and gives you a personal task manager where you can store groups of shell commands as named "tasks" and run them on demand, on a schedule, or when internet becomes available. It also ships a full Telegram bot integration so you can trigger and monitor everything from your phone.
+mudrep is a local command-line application built in Python. It runs in your terminal, and gives you a personal task manager where you can store groups of shell commands as named "tasks" and run them on demand, on a schedule, or when internet becomes available. It also ships a full Telegram bot integration so you can trigger and monitor everything from your phone or anywhere from world only by access through internet.
 
 ---
 
 ## Features
 
 ### CLI Interface
-- Kali Linux-style two-line prompt showing your username and current path
+- Two-line prompt showing your username and current path
 - Coral orange color scheme (`#FF7F50`) throughout the interface
 - Full shell passthrough — any system command works directly at the prompt
 - Login and account system with password hashing (SHA-256)
@@ -228,7 +228,7 @@ Valid examples: `backup`, `my-task`, `deploy_v2`
 
 ```
 mudrep/
-├── mudkip.py          # Main application file
+├── mudrep.py          # Main application file
 ├── mudkip_users.json  # Auto-generated on first run
 ├── remote_config.json # Auto-generated after remote_setup
 ├── tasks.db           # Auto-generated SQLite database
