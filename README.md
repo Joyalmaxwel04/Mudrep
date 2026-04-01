@@ -14,6 +14,7 @@ mudrep is a local command-line application built in Python. It runs in your term
 
 ![image alt](https://github.com/Joyalmaxwel04/Mudrep/blob/595a2c03c803ab03fc68257cf77d09639fe77c17/Thumbnail/file_000000004cb0720b8a435c4544758d47.png)
 
+---
 ## Features
 
 ### CLI Interface
